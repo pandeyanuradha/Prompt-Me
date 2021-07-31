@@ -1,7 +1,11 @@
 # Prompt-Me
 
 Prompt-Me is an app that can keep track of our important activities and help us manage our daily home inventory. It is an android application mainly built on JAVA which comes
-with multiple functionalities that are listed below - 
+with multiple functionalities.
+
+The flochart summarises the functionalities and flow of pages in the application. 
+
+<img src="https://github.com/pandeyanuradha/Prompt-Me/blob/3531d1dd4d17e9538828df00952b558a435dd742/flowchart.png" width="800" height="600">
 
 1. Registration - User is required to enter their phone number and/or their email-ID to verify their profiles, while signing up. 
 2. Login - User can enter their verified email and password, or alternatively, Google sign in can also be used for login.
