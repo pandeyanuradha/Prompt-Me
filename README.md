@@ -7,6 +7,8 @@ The flochart summarises the functionalities and flow of pages in the application
 
 <img src="https://github.com/pandeyanuradha/Prompt-Me/blob/3531d1dd4d17e9538828df00952b558a435dd742/flowchart.png" width="800" height="600">
 
+## Functionalities 
+
 1. Registration - User is required to enter their phone number and/or their email-ID to verify their profiles, while signing up. 
 2. Login - User can enter their verified email and password, or alternatively, Google sign in can also be used for login.
 3. Dashboard - A customizable dashboard according to profession. The pre-built choices given to used include - Groceries, Tasks, Meetings and To-do list. New choices can be added by the user.
